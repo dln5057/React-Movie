@@ -24,5 +24,4 @@ Movie.propTypes = {
 };
 
 export const Poster = styled.img`
-  box-shadow: 0 0 35px black;
-`;
+  box-shadow: 0 0 35px black;`;
