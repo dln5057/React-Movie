@@ -36,6 +36,8 @@ class MoviesList extends PureComponent {
 
 export default MoviesList;
 
+// styles for styled components
+
 const MovieGrid = styled.div`
   display: grid;
   padding: 1rem;

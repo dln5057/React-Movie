@@ -47,6 +47,8 @@ class MovieDetail extends Component {
 
 export default MovieDetail;
 
+// styles for styled components
+
 const MovieWrapper = styled.div`
   position: relative;
   padding-top: 60vh;
